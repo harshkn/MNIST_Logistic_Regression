@@ -7,4 +7,4 @@ Total size of test images is  (10000)
 
 
 ###Accuracy 
-![alt tag](MNIST_Logistic_Regression/trvsacc.png)
+![alt tag](trvsacc.png)
