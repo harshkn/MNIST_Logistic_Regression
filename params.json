@@ -1,6 +1,6 @@
 {
   "name": "MNIST logistic regression",
   "tagline": "Using scikit learn",
-  "body": "# MNIST handwritten digits classification using Logistic regression \r\n\r\n## Uses Scikit-learn toolbox. \r\n\r\nTotal size of training images is  (55000)\r\nTotal size of test images is  (10000)\r\n\r\n\r\n#####Accuracy with training sample size \r\n![Training sample size Vs Accuracy](trvsacc.png)\r\n\r\n#####Learnt weight vector for training sample size of 55000 \r\n![Training sample size Vs Accuracy](weights_55000.png)\r\n\r\n",
+  "body": "# MNIST handwritten digits classification using Logistic regression \r\n\r\n## Uses Scikit-learn toolbox. \r\n\r\nTotal size of training images is  (55000)\r\nTotal size of test images is  (10000)\r\n\r\n\r\n#####Accuracy with training sample size \r\n![Training sample size Vs Accuracy](https://raw.githubusercontent.com/harshkn/MNIST_Logistic_Regression/master/trvsacc.png)\r\n\r\n#####Learnt weight vector for training sample size of 55000 \r\n![Training sample size Vs Accuracy](https://raw.githubusercontent.com/harshkn/MNIST_Logistic_Regression/master/weights_55000.png)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
