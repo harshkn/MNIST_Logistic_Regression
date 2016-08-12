@@ -7,8 +7,9 @@ Total size of test images is  (10000)
 
 
 #####Accuracy with training sample size 
-![Training sample size Vs Accuracy](trvsacc.png)
+<img src="trvsacc.png" alt="Training sample size Vs Accuracy" width="350" height="250">
 
-#####Learnt weight vector for training sample size of 55000 
-![Training sample size Vs Accuracy](weights_55000.png)
+
+#####Learnt weight matrix for training sample size of 55000 
+![Learnt weight matrix](weights_55000.png)
 
