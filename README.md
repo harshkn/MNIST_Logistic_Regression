@@ -2,9 +2,9 @@
 
 ## Uses Scikit-learn toolbox. 
 
-Total size of training images is  (55000)
-Total size of test images is  (10000)
-Maximum accuracy of about 92%
+Total size of training images is  (55000)  
+Total size of test images is  (10000)  
+Maximum accuracy of about 92%  
 
 #####Accuracy with training sample size 
 <img src="trvsacc.png" alt="Training sample size Vs Accuracy" width="350" height="250">
